@@ -1,4 +1,4 @@
-# Agentic AI Business – Online IT Department
+# Agentic AI Business – AI Agent IT Department
 
 This project simulates an AI-powered online IT department designed to handle business and IT support workflows.
 
